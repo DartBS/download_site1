@@ -1,0 +1,18 @@
+#profile-title: 𝐕𝐩𝐧𝐅𝐫𝐞𝐞𝐃𝐫𝐨𝐩
+
+#!name=VpnFreeDrop
+#profile-update-interval: 1
+#profile-web-page-url: https://t.me/vpnfreedrop
+#support-url: https://t.me/vpnfreedrop
+#announce: base64: dC5tZS9GcmVlU3Vic2NyaXB0aW9uQm90CuKAjnQubWUvdnBuZnJlZWRyb3AK4oCOdC5tZS9odHRw
+czovL3QubWUvd294eV9zdG9yZTIK
+
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&allowinsecure=0&type=tcp&headerType=none#🇩🇪Germany
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&allowinsecure=0&type=tcp&headerType=none#🇫🇷France
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&allowinsecure=0&type=tcp&headerType=none#🇹🇷 Türkiye
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&allowinsecure=0&type=tcp&headerType=none#🇺🇸United States
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&allowinsecure=0&type=tcp&headerType=none#🇬🇧United Kingdom
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&allowinsecure=0&type=tcp&headerType=none#🇮🇹Italy
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&allowinsecure=0&type=tcp&headerType=none#🇰🇿Kazakstan
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&allowinsecure=0&type=tcp&headerType=none#🇷🇺Russia
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&allowinsecure=0&type=tcp&headerType=none#🇦🇿Azerbaycan
