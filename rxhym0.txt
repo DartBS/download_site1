@@ -1,0 +1,15 @@
+#profile-title: rxhym0 
+
+#!name=VpnFreeDrop
+#profile-update-interval: 1
+#profile-web-page-url: https://tiktok.com/@rxhym0
+#support-url: https://tiktok.com/@rxhym0
+#announce: base64: xZ5leWxlIEtvZGxhciDDm8OnaW4gVGlrVG9rIFBvZCBFZGnFiDogQHJ4aHltMAo=
+
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#🇩🇪Germany
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#🇫🇷France
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#🇺🇸United%20States
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#🇬🇧United%20Kingdom
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#🇮🇹Italy
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#🇰🇿Kazakstan
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#🇹🇷Türkiye
