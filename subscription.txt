@@ -1,17 +1,7 @@
-#profile-title: 𝐕𝐩𝐧𝐅𝐫𝐞𝐞𝐃𝐫𝐨𝐩
+#profile-title: Vpn Vagty, Dolandyr. ✍🏼
 
 #!name=VpnFreeDrop
 #profile-update-interval: 1
 #profile-web-page-url: https://t.me/vpnfreedrop
 #support-url: https://t.me/vpnfreedrop
-#announce: base64: S2FuYWw6IEB2cG5mcmVlZHJvcArigI5DaGF0OiBAdnBuZnJlZWRyb3BjaGF0CuKAjkJvdDogQGZyZWVzdWJzY3JpcHRpb25ib3QK
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@8.6.112.0:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&alpn=h2&type=grpc&mode=gun&authority=&serviceName=#🇩🇪Germany
-vless://e4824193-4f54-453b-d037-88368e85ef0e@8.6.112.0:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&alpn=h2&type=grpc&mode=gun&authority=&serviceName=#🇫🇷France
-vless://e4824193-4f54-453b-d037-88368e85ef0e@8.6.112.0:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&alpn=h2&type=grpc&mode=gun&authority=&serviceName=#🇹🇷Türkiye
-vless://e4824193-4f54-453b-d037-88368e85ef0e@8.6.112.0:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&alpn=h2&type=grpc&mode=gun&authority=&serviceName=#🇬🇧United Kingdom
-vless://e4824193-4f54-453b-d037-88368e85ef0e@8.6.112.0:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&alpn=h2&type=grpc&mode=gun&authority=&serviceName=#🇺🇸United States
-vless://e4824193-4f54-453b-d037-88368e85ef0e@8.6.112.0:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&alpn=h2&type=grpc&mode=gun&authority=&serviceName=#🇦🇿Azerbaycan
-vless://e4824193-4f54-453b-d037-88368e85ef0e@8.6.112.0:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&alpn=h2&type=grpc&mode=gun&authority=&serviceName=#🇸🇪Sweden
-vless://e4824193-4f54-453b-d037-88368e85ef0e@8.6.112.0:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&alpn=h2&type=grpc&mode=gun&authority=&serviceName=#🇮🇹İtaly
-vless://e4824193-4f54-453b-d037-88368e85ef0e@8.6.112.0:443?encryption=none&security=tls&sni=gco1.afterdomain.shop&alpn=h2&type=grpc&mode=gun&authority=&serviceName=#🇰🇿Kazakstan
+#announce: base64:
