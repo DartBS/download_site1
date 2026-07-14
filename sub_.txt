@@ -1,4 +1,4 @@
-#profile-title: 𝐕𝐩𝐧𝐅𝐫𝐞𝐞𝐃𝐫𝐨𝐩
+#profile-title: Vpn Vagty, Doldy.
 
 #!name=VpnFreeDrop
 #profile-update-interval: 1
