@@ -4,4 +4,4 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://t.me/vpnfreedrop
 #support-url: https://t.me/vpnfreedrop
-#announce: base64: VnBuIFZhZ3R5LERvbGFuZHlyLgo=
+#announce: base64: 
