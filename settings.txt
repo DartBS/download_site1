@@ -1,0 +1,15 @@
+{
+    "sub_code": "vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4TGVub3hTdG9yZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+    "channels": [
+        {
+            "id": "@lenoxstore",
+            "name": "𝐋𝐄𝐍𝐎𝐗 𝐒𝐓𝐎𝐑𝐄🇹🇲",
+            "url": "https://t.me/lenoxstore"
+        },
+        {
+            "id": "@gereklikanal",
+            "name": "Gerekli Kanal",
+            "url": "https://t.me/gereklikanal"
+        }
+    ]
+}
