@@ -5,6 +5,7 @@
 #profile-web-page-url: https://t.me/lenoxstore
 #support-url: https://t.me/lenoxstore
 #announce: base64: S2FuYWw6IEBsZW5veHN0b3JlIApCb3Q6IEBmcmVlc3Vic2NyaXB0aW9uYm90CkJvdCBCYXJhZGEgUHJvYiBCb2xzbyBIYWJhcmxhxZ8hOiBAbGVub3hiZXN0Nw==
+
 vless://ad790e5f-3e31-43c6-b047-336577a3b3de@hipde.ietotozheproidet.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=focus.de&fp=qq&pbk=CSj5qRgK0HhbmhUsUByt3-3kM5s1FyOPuPns_04_yRo&type=tcp&headerType=none#🇪🇺Owner: Lenox🥝
 vless://ad790e5f-3e31-43c6-b047-336577a3b3de@hipde.ietotozheproidet.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=focus.de&fp=qq&pbk=CSj5qRgK0HhbmhUsUByt3-3kM5s1FyOPuPns_04_yRo&type=tcp&headerType=none#🇹🇲Türkmenistan
 vless://ad790e5f-3e31-43c6-b047-336577a3b3de@hipde.ietotozheproidet.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=focus.de&fp=qq&pbk=CSj5qRgK0HhbmhUsUByt3-3kM5s1FyOPuPns_04_yRo&type=tcp&headerType=none#🇩🇪Germany
