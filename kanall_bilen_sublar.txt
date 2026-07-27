@@ -7,7 +7,7 @@
       "url": "https://t.me/lenoxstore"
     },
     {
-     "id": "@gereklikanal",
+      "id": "@gereklikanal",
       "name": "Gerekli Kanal",
       "url": "https://t.me/gereklikanal"
     }
