@@ -1,0 +1,15 @@
+{
+  "sub_code": "happ://crypt5/fzvd4Fl2D1LwNYcwNLYelhS923FFLf6E00mn91t3H/Xla7UgWOqIUN2HBifMt0Drz37xsw9O0j0PqshjL5qrZCIgQSgyr0BEr32unszO8evkUP11PfK4stBLhOt61IxP8k9paY8D89RI3lGvvNBYFAMNeweCNvEaO/HgZJ9tqyGU5shAwca8kr8FlrSUndZ1gzN1/GIqoWlz2x9w3wI2RAi7HAD5pd9upMKyNYlUmuU/qyDGpGlELosfX1hGXJpScI44W4rXuIM=HcM3YIkku8yAomB+Xh3snZm5hLmgUtuSlR4lpd2k+34HfMx6J8ygtCEOdBuWu4c6P2p5rsxFvMTL74is5oSQU0w+2F/ZUiV45Md3cELHGyk3g0C6ZVDCGJ7a21rllflVqku84eTk3+sHXEh8rLQawIWeR3jJPNFE/R1Bvx2fhdAAAErpbIsroRYpucEFL/CobCwSsD8SDu0Oc0cG2iD61zyDNqjIZtYivsInBhk24Q4cdusjLqIJsgSVzHKT+kszTGprgZL5mOyC4kuyVVzmxmo/hs3Y0Jkq4PaCsF1KUax2T++WPDwVMdVKFLRTu9ybQGwN2QHTx3+wlWn0woSgvO3nRYRYfgIBxCQ+6H7wUF81JYCBLz79ncdAbPsy/zSNWH0ofLe0HTjmTVGNX5lehkViwOR18XVpkjn5U9qkMZmPO9NtJHw/4xYPM0Wvnpxooknzc2WXkHsaNKI06hfNkDQCK09NAdwvBhHyy+LUKLHlGO7PVOEpQfGtwmPnAciDgbYjgaw37uboFO6FKbVib9/NvimJ5FTOP7yDsmGu7Y/G75ci0XAsElDnEII8Sn8hTCBwKBmfBGpiaNRHOBL3PlasS6KLLE44Gow7UZGpQf7fkBLiHXZTqCqeMIgSTLkdVXspPetVKc2a5UgZqM195qCU3BucXNwE4ploOxCRfo8=ff",
+  "channels": [
+    {
+      "id": "@lenoxstore",
+      "name": "𝐋𝐄𝐍𝐎𝐗 𝐒𝐓𝐎𝐑𝐄🇹🇲",
+      "url": "https://t.me/lenoxstore"
+    },
+    {
+      "id": "@gereklikanal",
+      "name": "Gerekli Kanal",
+      "url": "https://t.me/gereklikanal"
+    }
+  ]
+}
