@@ -5,11 +5,4 @@
       "id": "@lenoxstore",
       "name": "𝐋𝐄𝐍𝐎𝐗 𝐒𝐓𝐎𝐑𝐄🇹🇲",
       "url": "https://t.me/lenoxstore"
-    },
-    {
-      "id": "@gereklikanal",
-      "name": "Gerekli Kanal",
-      "url": "https://t.me/gereklikanal"
     }
-  ]
-}
