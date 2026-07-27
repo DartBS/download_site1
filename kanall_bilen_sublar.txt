@@ -10,7 +10,7 @@
      "id": "@gereklikanal",
       "name": "Gerekli Kanal",
       "url": "https://t.me/gereklikanal"
-    }
+    },
     {
      "id": @addlist,
      "name": "📂addlist",
