@@ -1,0 +1,18 @@
+#profile-title: 💎Subscription Bot💎
+
+#!name=𝐋𝐄𝐍𝐎𝐗 𝐒𝐓𝐎𝐑𝐄🇹🇲
+#profile-update-interval: 1
+#profile-web-page-url: https://t.me/lenoxstore
+#support-url: https://t.me/lenoxstore
+#announce: base64: S2FuYWw6IEBsZW5veHN0b3JlCkJvdDogQGZyZWVzdWJzY3JpcHRpb25ib3QKQm90J2RhIFByb2JsZW1hIEJhciBCb2xzb/CfkYfwn4+74p2XOgpAbGVub3hiZXN0Nw==
+
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇪🇺Owner: Lenox🥝
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇹🇲Türkmenistan
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇩🇪Germany
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇫🇷France
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇹🇷Türkiye
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇦🇿Azerbaycan
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇺🇸United States
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇬🇧United Kingdom
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇫🇮Finland
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.10:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇰🇿Kazakistan
