@@ -1,5 +1,5 @@
 {
-  "sub_code": "happ://crypt5/fzvdngwRS69HyZdU0mIl1EJv23QK5O2mP+o7QRbjCAy713B6GTlaKE+YKifma4EvDcuf3E36vC65nuNFvH6e88iJvjn200/ofp4YQ7c5A2uevsn2s8zoCIoWN26jSoJQ0/mkJsVV2pusP6UffOAgyBs+Wp6ChRaWTHTgN4Ejs+ataIJrmQ7dbGo6lGPbtHzDgYf0GmPyiuXpYNeAZJRM9Rxpd4SvFvgVmqcBLA2AnKVYFDzUgsNETpW+uX+F6DECMQhxvx==iL/5eljSynB5sRsJxsN2NN0amnzByN/8JxZ5bfCGVdqYYFcYUYHxfcSJvi3h/Cf23kIg54MoKwRAdKZgIWaPp73ZNrXTA6Ts5/tQKQwIlJcQp4xyYrhuykGETpvmBrwR9+tI5UzLodz7f6n0dLR489uhtKabStGmG6FWyssJy3AX5ap/6Pw6hF6RaAL7Rci/bvWKlt3B2Z+ZLS5KqEqS7bkotFwf01JfntFpS1NBrqIwrjlimKc44J2I6zQvoGEuf8nVqoqAHGllcXc9LPX+b0tsIICL8eu74Q7fIHEleQUGhAzbzmtmciqOXH7verOLl92ZICm/y/wCO6eqkYut661/0fOxCz1bOIMih8gy3Fty2zHF+O6z+rd9AOqn7rov2Q17mh/RIRZiT+HET2rXsDRlpcP5X6nA14QU0WKO/iUTb/1KNE/BZ0np6os0BytTZGhpNEVF8XhF16L+Z+OQelAzFUBNAA7ksuACU6YjDn92q5tzpnLdQSsOArumejKm0yN9YXBuz3yF90JbtNbdDkA8NhqYUYRpoF/rmQpiXIzuU4YF06y1Dix+6Nkj2lVxvrlDjr/f859MOAQ8KxEkDSpWXVlX/6obJ46KMGAb/UbK0EdeLUPVMDo9O5/vhPAACL6J7E66ARKB4Uo+rWE4xxP7SorbPfez1iZfmOjzfoc=ff",
+  "sub_code": "vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.6:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇹🇷Türkiye, İstanbul",
   "channels": [
     {
       "id": "@lenoxstore",
