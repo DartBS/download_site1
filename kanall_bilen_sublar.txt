@@ -1,5 +1,5 @@
 {
-  "sub_code": "happ://crypt5/fzvdrHMEFu4spwbTBZBB7AbE16GTHD8critjdz7sjaKVhozRQiRMoEJtBrP8kbKNJPenPtg8m2ODPyYC1QC5dJjev7oJAowmjWcWAr3GmcNMx+xJx71O9H92R17xN5l30zIKo37hRiIs8qcjk/nkpbXuUAwAB1ze8W6EEtGSwIXoxG6OxboTx1hWcJmaiwOHVQxsYe==1BbL4/JQT29TRNCUadbDKB5bWd8BulgVt+j9l2MLJzDZQpsu/XdX5VUsVu4fB0tN322I3ZHFGo+Clbmf6onkeQDm/oeyEPnnGGSCGAa7C58q7kfJdpngAskprcEj2AudVT9X/TrfcmIjddJhuQ9tAaFKplpE0+9a+z+ywR0iX014Mvgrlt5cteFGRtkl3J/pZTdUsY3zclKM9tLgqkyP6v+J+R69xH678GbBvqi1KB1FrzbXY99dN3enVMcVvc9EivDGDdd4FgJWoUsbmZ4N70NMijnUYZ3TAmguBjkXJOQXaYuQyWpelWNyzf4ZQxWUWDin7Hb8sHr5thFnlIprawt18rj4jTGz4T4EKZMwzns0dVWK0nKd0rnTo1mg9MmITCjgOSkNlkE+HjAFOusRyN4Zcg6nT54YXlRUTIyLr3/bCwqSMPEY7VmKcqC5ajohsg0HrxUjFvC8gA41s7CF007KPVnAU8F05b39xRkH7aaR/y6zFdxM6yq5NiQ+6hfyedaw4eFfuMR+gbecIQOC6YKnhrAftwXp1MREKU2Eu4Q6VmsVys282M1GWu+fnzMoVzShP4TDaJ24VCrpyc4K+4QoQ/EFxTh5pema1Cdjd0VwGTMnBJL776hYTErDJoicnUyXqoOnpjW9FsntR2xeJiHP+dzdMwz1KgNnM1KKfoQ=ff",
+  "sub_code": "hysteria2://STYyftThFn@freedom.chenlan.top:12765?security=tls&fm=%7B%7D&sni=freedom.chenlan.top#%F0%9F%8C%8DHysteria",
   "channels": [
     {
       "id": "@lenoxstore",
