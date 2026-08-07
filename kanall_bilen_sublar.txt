@@ -2,11 +2,6 @@
   "sub_code": "hysteria2://STYyftThFn@freedom.chenlan.top:12765?security=tls&fm=%7B%7D&sni=freedom.chenlan.top#%F0%9F%8C%8DHysteria",
   "channels": [
     {
-      "id": "@lenoxstore",
-      "name": "𝐋𝐄𝐍𝐎𝐗 𝐒𝐓𝐎𝐑𝐄🇹🇲",
-      "url": "https://t.me/lenoxstore"
-    },
-    {
       "id": "@gereklikanal",
       "name": "Gerekli Kanal",
       "url": "https://t.me/gereklikanal"
