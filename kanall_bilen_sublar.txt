@@ -1,5 +1,5 @@
 {
-  "sub_code": "https://jimmygoal.pythonanywhere.com/sub?key=lenoxvpn",
+  "sub_code": "https://jimmygoal.pythonanywhere.com/drive/v3/sodbwpwozhfelwpdh/oaxbxpwjspxjwwoshxlxid/sub?key=LWBCPAJSZOXJJWPSKZKXLSNWKSSKZ",
   "channels": [
     {
       "id": "@lenoxvpn",
