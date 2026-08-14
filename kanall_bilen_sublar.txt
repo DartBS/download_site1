@@ -9,8 +9,7 @@
     {
       "id": "@addlist",
       "name": "📂addlist",
-      "url":
-"https://t.me/addlist/yyLxMyCDmb80NDI6"
+      "url": "https://t.me/addlist/yyLxMyCDmb80NDI6"
     }
   ]
 }
