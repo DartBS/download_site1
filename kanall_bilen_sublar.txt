@@ -4,7 +4,7 @@
     {
       "id": "@lenoxvpn",
       "name": "lenoxvpn",
-      "url": "https://t.me/gereklikanal"
+      "url": "https://t.me/lenoxvpn"
     },
     {
       "id": "@addlist",
