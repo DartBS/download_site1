@@ -1,15 +1,16 @@
 {
-  "sub_code": "hysteria2://STYyftThFn@freedom.chenlan.top:12765?security=tls&fm=%7B%7D&sni=freedom.chenlan.top#%F0%9F%8C%8DHysteria",
+  "sub_code": "https://jimmygoal.pythonanywhere.com/sub?key=lenoxvpn",
   "channels": [
     {
-      "id": "@gereklikanal",
-      "name": "Gerekli Kanal",
+      "id": "@lenoxvpn",
+      "name": "lenoxvpn",
       "url": "https://t.me/gereklikanal"
     },
     {
       "id": "@addlist",
       "name": "📂addlist",
-      "url": "https://t.me/addlist/jw-Ij6YEsDo0NzNi"
+      "url":
+"https://t.me/addlist/yyLxMyCDmb80NDI6"
     }
   ]
 }
