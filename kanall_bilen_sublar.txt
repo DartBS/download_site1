@@ -1,5 +1,5 @@
 {
-  "sub_code": "https://jimmygoal.pythonanywhere.com/drive/v3/sodbwpwozhfelwpdh/oaxbxpwjspxjwwoshxlxid/sub?key=LWBCPAJSZOXJJWPSKZKXLSNWKSSKZ",
+  "sub_code": "vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20Russia",
   "channels": [
     {
       "id": "@lenoxvpn",
