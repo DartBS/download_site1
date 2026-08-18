@@ -1,5 +1,5 @@
 {
-  "sub_code": "vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.153.187.92:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ikea.com&fp=firefox&pbk=lEGPqSao8Q-iLD8zcFuLZUM91zinFkgo_rJfH-NMcAA&sid=e852dc&type=tcp&headerType=none#🇸🇪Sweden",
+  "sub_code": "vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.14.246.245:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cloud.mail.ru&fp=firefox&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&sid=dfbfa87e9f37f1f0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AEHelsinki%2C%2018%2C%20%20Finland",
   "channels": [
     {
       "id": "@lenoxvpn",
