@@ -1,5 +1,5 @@
 {
-  "sub_code": "vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.90.216.147:8080?encryption=none&security=reality&sni=cloud.mail.ru&fp=firefox&pbk=mFF1ffE0RcXAVIbGzWc5EXJcAIqg1n8sJ1ZqjGeunGI&sid=721a55c3&type=xhttp&mode=auto&path=%2F#🇩🇪 Subscription Bot 💎,
+  "sub_code": "vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.90.216.147:8080?encryption=none&security=reality&sni=cloud.mail.ru&fp=firefox&pbk=mFF1ffE0RcXAVIbGzWc5EXJcAIqg1n8sJ1ZqjGeunGI&sid=721a55c3&type=xhttp&mode=auto&path=%2F#🇩🇪 Subscription Bot 💎",
   "channels": [
     {
       "id": "@lenoxvpn",
