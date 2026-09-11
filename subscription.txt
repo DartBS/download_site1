@@ -1,7 +1,7 @@
-#profile-title: thevpnbestbot
+#profile-title: Bot: @thevpnbestbot
 
 #!name=@thevpnbestbot
-#profile-update-interval: 1
+#profile-update-interval: 24
 #profile-web-page-url: https://t.me/michele_stx
 #support-url: https://t.me/lenoxbest7
 #announce: base64: Qm90OiBAdGhldnBuYmVzdGJvdApEw7x6ZW46IEBsZW5veGJlc3Q3ClNwb25zb3IgS2FuYWwgR2/Fn2R5cm1hayDEsHNsZXnDpG5sZXIsIFlhennFiCHwn5GA8J+Rh/Cfj7s6CkBtaWNoZWxlX3N0eApAbGVub3hiZXN0NwpEw7xybGkgRMO8cmxpIEh5em1hdGxhciDEsHNsZXnDpMWIaXptaT8gWWF6ecWIIfCfkYDwn5OlOgpAbGVub3hiZXN0Nw==
