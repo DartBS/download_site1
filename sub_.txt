@@ -12,161 +12,59 @@ vless://c5827ef5-78d0-4777-87c3-b955d0179b2e@104.17.0.50:443?encryption=none&sec
 {
   "dns": {
     "servers": [
-      "https://dns.adguard-dns.com/dns-query",
-      "94.140.14.14",
-      "1.1.1.1"
-    ],
-    "queryStrategy": "UseIP"
-  },
-  "inbounds": [
-    {
-      "port": 10808,
-      "protocol": "socks",
-      "settings": {
-        "auth": "noauth",
-        "udp": true
+      {
+        "tag": "adguard",
+        "address": "https://dns.adguard-dns.com/dns-query"
       },
-      "tag": "socks-in"
-    },
-    {
-      "port": 10809,
-      "protocol": "http",
-      "settings": {},
-      "tag": "http-in"
-    }
-  ],
+      {
+        "tag": "adguard-ipv4",
+        "address": "94.140.14.14"
+      },
+      {
+        "tag": "cloudflare",
+        "address": "1.1.1.1"
+      }
+    ],
+    "strategy": "ipv4_only"
+  },
   "outbounds": [
     {
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "104.16.0.50",
-            "port": 443,
-            "users": [
-              {
-                "id": "c5827ef5-78d0-4777-87c3-b955d0179b2e",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
+      "type": "vless",
+      "tag": "🇩🇪 Germany",
+      "server": "104.16.0.50",
+      "server_port": 443,
+      "uuid": "c5827ef5-78d0-4777-87c3-b955d0179b2e",
+      "tls": {
+        "enabled": true,
+        "server_name": "bizeberer.eu.cc",
+        "insecure": false
       },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "bizeberer.eu.cc",
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "bizeberer.eu.cc"
-          },
-          "path": "/"
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "bizeberer.eu.cc"
         }
-      },
-      "tag": "proxy"
-    },
-    {
-      "protocol": "freedom",
-      "tag": "direct"
-    },
-    {
-      "protocol": "blackhole",
-      "tag": "block"
-    }
-  ],
-  "routing": {
-    "domainStrategy": "IPIfNonMatch",
-    "rules": [
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "network": "tcp,udp"
       }
-    ]
-  }
-}
-
-{
-  "dns": {
-    "servers": [
-      "https://dns.adguard-dns.com/dns-query",
-      "94.140.14.14",
-      "1.1.1.1"
-    ],
-    "queryStrategy": "UseIP"
-  },
-  "inbounds": [
-    {
-      "port": 10808,
-      "protocol": "socks",
-      "settings": {
-        "auth": "noauth",
-        "udp": true
-      },
-      "tag": "socks-in"
     },
     {
-      "port": 10809,
-      "protocol": "http",
-      "settings": {},
-      "tag": "http-in"
-    }
-  ],
-  "outbounds": [
-    {
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "104.17.0.50",
-            "port": 443,
-            "users": [
-              {
-                "id": "c5827ef5-78d0-4777-87c3-b955d0179b2e",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
+      "type": "vless",
+      "tag": "🇳🇱 Netherlands",
+      "server": "104.17.0.50",
+      "server_port": 443,
+      "uuid": "c5827ef5-78d0-4777-87c3-b955d0179b2e",
+      "tls": {
+        "enabled": true,
+        "server_name": "bizeberer.eu.cc",
+        "insecure": false
       },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "bizeberer.eu.cc",
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "headers": {
-            "Host": "bizeberer.eu.cc"
-          },
-          "path": "/"
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "bizeberer.eu.cc"
         }
-      },
-      "tag": "proxy"
-    },
-    {
-      "protocol": "freedom",
-      "tag": "direct"
-    },
-    {
-      "protocol": "blackhole",
-      "tag": "block"
-    }
-  ],
-  "routing": {
-    "domainStrategy": "IPIfNonMatch",
-    "rules": [
-      {
-        "type": "field",
-        "outboundTag": "proxy",
-        "network": "tcp,udp"
       }
-    ]
-  }
+    }
+  ]
 }
